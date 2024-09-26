@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0; /* Adicione essa linha para remover as margens externas também */
+    box-sizing: border-box; /* Garante que o padding e a borda sejam incluídos na largura e altura total */
+}
+#titulo{
+    background-color: black;
+    color: white;
+    padding-left: 40%;
+    padding-right: 20%;
+}
+
+#imgtd{
+    padding-top: 300px;
+    padding-left: 25%;
+}
+
+#idioma{
+    padding-left: 44%;
+}
+
+.idiomas{
+    padding-left: 20%;
+}
+
+.img{
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    padding: 20px;
+}
